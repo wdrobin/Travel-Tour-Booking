@@ -1,0 +1,290 @@
+.navbar-toggler{
+	border: 2px solid white;
+}
+.navbar ul {
+     display: flex;
+     text-align: center;
+     justify-content: center;
+}
+.navbar ul a {
+     color: white;
+     text-decoration: none;
+     margin: 0px 5px;
+}
+.navbar ul a:hover {
+     color: yellow;
+}
+.m1texte1 {
+	color: white;
+	font-size: 45pt;
+	padding-top: 100px;
+}
+.m1text2 {
+	color: white;
+	font-size: 30pt;
+}
+.menu1{
+	height: auto;
+	background-image: url(../image/bg1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.home2{
+	height: auto;
+	background-color: #e1c92a;
+}
+.home3 {
+      height: auto;
+     background-color: #fcfbfc;
+}
+.m3text1 {
+	color: black;
+	font-size: 25pt;
+	padding-top: 50px;
+}
+.m3text2 {
+	color: black;
+	font-size: 25pt;
+}
+.m3text3 {
+	color: black;
+	font-size: 12pt;
+	padding-right: 50px;
+	text-align: justify;
+}
+.m3icon {
+	border: none;
+	height: 35px;
+	width: 35px;
+	padding-top: 5px;
+	background-color: #00A4FF;
+	text-align: center;
+	border-radius: 25px;
+}
+.m3text4 {
+	color: black;
+	padding-right: 50px;
+	text-align: justify;
+	font-size: 11pt;
+}
+.home4 {
+	 height: auto;
+     background-color: white;
+}
+.m4text1 {
+	color: black;
+	font-size: 30pt;
+}
+.m4text3 {
+	color: black;
+    text-align: justify;
+	font-size: 14pt;
+}
+.m4text4 {
+	color: black;
+	padding-right: 80px;
+	text-align: justify;
+	font-size: 11pt;
+}
+.home5{
+	height: auto;
+	background-image: url(../image/bg2.jpg);
+	background-size: cover;
+}
+.fa-check{
+	color: white;
+	padding: 1px 2px;
+	background-color: #00a4ff;
+	background-color: #00a4ff;
+	border-radius: 100%;
+}
+.home6{
+	height: auto;
+	background-color: white;
+}
+.home7{
+	height: auto;
+	background-image: url(../image/bg3.jpg);
+	background-size: cover;
+}
+.home8{
+	height: auto;
+	background-image: url(../image/bg4.jpg);
+	background-size: cover;
+}
+.btn {
+      background-color: #f9d342;
+      border: none;
+      color: black;
+}
+.btn:hover {
+	color: white;
+      background-color: #17d20e;
+}
+.home9{
+	height: auto;
+	background-image: url(../image/bg5.jpg);
+	background-size: cover;
+}
+.box1{
+	border-radius: 10px;
+}
+.box{
+	border: 2px solid #00a4ff;
+}
+.m6box1{
+	background-color:#00a4ff;
+	padding-top: 9px;
+	padding-bottom: 5px;
+	
+}
+.m6box2{
+	background-color:#e4e4e4 ;
+	padding-top: 9px;
+	padding-bottom: 5px;
+}
+.m6box3{
+	padding-top: 9px;
+	padding-bottom: 5px;
+}
+.box4{
+	border: 2px solid #e4e4e4;
+}
+.home10{
+	height: auto;
+	background-image: url(../image/bg6.jpg);
+	background-size: cover;
+}
+.home11 {
+    height: auto;
+    background-image: url(../image/bg7.jpg);
+    background-size: cover;
+}
+.location{
+	color: #f0d839;
+	font-size: 70px;
+}
+.icons a {
+     color: #000;
+     margin: 0 10px;
+     font-size: 20px;
+     border: 2px solid yellow;
+     border-radius: 50%;
+     padding: 8px 13px;
+}
+.icons a:hover {
+        background-color: #ef0ef2;
+        color: white;
+        border: #ef0ef2;
+}
+.footer-bottom {
+ 	background-color: #d42a2a;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+}
+.justify{
+	text-align: justify;
+}
+.yellow{
+	color: #FFDD00;
+}
+.bg-yellow{
+	background-color:#FFDD00 ;
+}
+@font-face{
+	font-family: BebasNeue-Bold;
+	src: url(../fonts/BebasNeue-Bold.ttf);
+}
+h1:hover{
+	color: #3969f0;
+}
+h2:hover{
+	color: #130dff;
+}
+h3:hover{
+	color: #ef0ef2;
+}
+h4:hover{
+	color: #17d20e;
+}
+h5:hover{
+	color: #17d20e;
+}
+h6:hover{
+	color: #ff3b0d;
+}
+p:hover{
+	color: #17d20e;
+}
+.font-size{
+	font-size: 50px;
+}
+.color-373737{
+	color: #373737;
+}
+.color-00a4ff{
+	color: #00a4ff;
+}
+.ps-0{
+	padding-left:0px ;
+}
+.pe-0{
+	padding-right: 0px;
+}
+.mb-0{
+	padding-bottom: 0px;
+}
+.pt-100{
+	padding-top: 100px;
+}
+
+@font-face{
+	font-family: Montserrat-Black;
+	src: url(../fonts/Montserrat-Black.ttf);
+}
+@font-face{
+	font-family: Lato-Medium;
+	src: url(../fonts/Lato-Medium.ttf);
+}
+@font-face{
+	font-family: Montserrat-ExtraBold;
+	src: url(../fonts/Montserrat-ExtraBold.ttf);
+}
+@font-face{
+	font-family: Lato-MediumItalic;
+	src: url(../fonts/Lato-MediumItalic.ttf);
+}
+@font-face{
+	font-family: Montserrat-Medium;
+	src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face{
+	font-family: Montserrat-Regular;
+	src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face{
+	font-family: Lato-Regular;
+	src: url(../fonts/Lato-Regular.ttf);
+}
+.Montserrat-Black{
+	font-family: Montserrat-Black;
+}
+.Lato-Medium{
+	font-family: Lato-Medium;
+}
+.Montserrat-ExtraBold{
+	font-family: Montserrat-ExtraBold;
+}
+.Montserrat-Medium{
+	font-family: Montserrat-Medium;
+}
+.Montserrat-Regular{
+	font-family: Montserrat-Regular;
+}
+.Lato-Regular{
+	font-family: Lato-Regular;
+}
+.Lato-MediumItalic{
+	font-family: Lato-MediumItalic;
+}
